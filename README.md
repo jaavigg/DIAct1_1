@@ -1,4 +1,4 @@
-# Actividad DIAct1_2
+# Actividad DIAct1_1
 
 ## Como ejecutar
 1. Abrir el proyecto DIAct1_2 en NetBeans

@@ -1,4 +1,4 @@
-package com.mycompany.diact1_2;
+package DIAct1_1;
 
 public class Alumno {
     private String nombre;
